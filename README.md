@@ -3,7 +3,6 @@
 
 
 
-# Power BI Dashboard with SQL Server Integration and DAX
 
 This repository contains a Power BI project that connects to a SQL Server database to create dynamic and insightful dashboards. The integration with SQL Server ensures that as new data is added to the database, the dashboards automatically update, providing real-time insights.
 
